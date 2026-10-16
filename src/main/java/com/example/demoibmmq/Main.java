@@ -1,4 +1,4 @@
-package com.example.demoaop;
+package com.example.demoibmmq;
 
 import com.ibm.mq.MQException;
 import com.ibm.mq.MQGetMessageOptions;
